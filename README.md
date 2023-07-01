@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Markdelmundo098901
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+/bard
+/ai
+/Imagine
+/iris
+/pinterest
+/playlyrics
+/sim
+/siri
+/stalk
+/meow
+/obama
+/onbot
+/simpson
+/allbox
+/aniquote
+/Autobanbot
+/antiout
+/antirobbery
+/autobanthread
+/automention
+𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒 𝐋𝐈𝐒𝐓
 
-<!---
-Markdelmundo098901/Markdelmundo098901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ (1/8)
+ Use /help [command name] for more details about that command
+
+Currently available 143 commands on M-arky
+
+ 𝗢𝗪𝗡𝗘𝗥:M-ark delmundo
+ add/pm:sa mag papaaccept
